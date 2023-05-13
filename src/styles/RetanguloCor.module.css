@@ -1,0 +1,7 @@
+.hover {
+  background: white;
+}
+
+.hover:hover {
+  background-color: #ecf4f7;
+}
